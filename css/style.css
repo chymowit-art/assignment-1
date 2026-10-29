@@ -21,6 +21,10 @@ body {
     padding: 20px;
 }
 
+#next-button {
+    background-color: green;
+}
+
 h2 {
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
